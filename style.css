@@ -1,0 +1,53 @@
+div {
+	border: 1px;
+	margin: 5px;
+}
+
+h1 {
+	visibility: hidden;
+}
+
+img {
+	visibility: visible;
+}
+
+
+.left {
+
+}
+
+.right {
+
+}
+
+#first {
+
+}
+
+#second {
+	
+}
+
+#second div {
+	visibility: hidden;
+}
+
+#third {
+	
+}
+
+#third > p {
+	visibility: hidden;
+}
+
+#fourth {
+	
+}
+
+#fifth {
+	
+}
+
+#sixth {
+	
+}
