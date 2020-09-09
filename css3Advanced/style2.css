@@ -1,0 +1,39 @@
+html {
+	color: blue;
+}
+
+
+article {
+	color: black;
+	font-size: 25px
+}
+
+figcaption {
+	font-size:  15px;
+}
+
+h1 {
+	font-family:  Arial;
+}
+
+p {
+
+	color: blue;
+
+}
+
+ul {
+	color: gray;
+	position: absolute;
+  	top: 55px;
+  	right: 0;
+}
+
+footer {
+	color: green;
+}
+
+li {
+	color: darkred;
+
+}
