@@ -12,7 +12,13 @@ p {
 
 ul {
 	color: gray;
+	position: absolute;
+  	top: 55px;
+  	right: 0;
+}
 
+footer {
+	color: green;
 }
 
 li {
