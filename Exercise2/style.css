@@ -1,0 +1,57 @@
+div {
+	border: 1px;
+	margin: 5px;
+}
+
+h1 {
+	visibility: visible;
+}
+
+img {
+	visibility: visible;
+}
+
+
+.left {
+
+}
+
+.right {
+
+}
+
+#first {
+
+}
+
+#first p {
+	font-size: 40px;
+}
+
+#second {
+	
+}
+
+#second div {
+	visibility: visible;
+}
+
+#third {
+	
+}
+
+#third > p {
+	visibility: visible;
+}
+
+#fourth {
+	
+}
+
+#fifth {
+	
+}
+
+#sixth {
+	
+}
